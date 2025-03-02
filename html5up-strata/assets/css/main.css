@@ -2239,6 +2239,16 @@ input[type="radio"] + label:before {
 
 .image.avatar img {
   border-radius: 100%;
+
+  width: 100%;
+}
+.image.avatar2 {
+  border-radius: 100%;
+}
+
+.image.avatar2 img {
+  border-radius: 0.35em;
+
   width: 100%;
 }
 
